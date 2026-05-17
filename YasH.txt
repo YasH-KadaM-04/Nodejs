@@ -1,0 +1,73 @@
+Hey there  i Am YasH  How are you I am fine here i want to know about yourself
+
+
+
+Introduction
+00:40 - Why You should watch this Node js course 
+01:29 - What is Node js?
+05:00 - Project Demo
+07:47 - Node js setup in windows and macOS 
+17:18 - First App with Node js (Hello World)
+27:05 - Important Points and Node js Role
+35:40 - Fundamentals of node JS
+48:21 - Core Modules and Global Object
+58:30 - Create Server in Node js 
+1:08:21 - External package and package.json 
+1:20:20 - What is nodemon package 
+1:25:14 - Understand Server response
+1:34:39 - Make Simple API in Node js  
+1:42:18 - Understand Request params in Node  
+1:51:17 - Get Input from terminal and  command line prompt
+1:58:16 - Load HTML file in node and show Output in browser 
+2:05:24 - How to Submit form in node js 
+2:19:08 - Handle Submitted Form request in Node js  
+2:25:11 - Create file from form requested Data 
+2:31:08 - Synchronous vs Asynchronous Programming in node 
+2:44:46 - How node js works
+2:56:19 - Modules and Routes in Node js
+3:07:42 - CRUD with file system in Node js
+3:25:14 - Make a simple website with  Node js
+3:42:04 - Path Module and Path constants in Node js
+3:48:52 - Express JS setup
+3:58:12 - How Express JS Works Explained
+4:05:31 - Type Model and type common in package.json
+4:11:42 - Render HTML and Form in Express JS 
+4:20:39 - How to render html file in express JS 
+4:28:12 - How to make 404 page 
+4:35:10 - Add CSS with express JS
+4:44:08 - Middleware in Express JS and Node js
+4:55:34 - Middleware Example in Express JS 
+5:03:18 - Route Middleware in Express JS 
+5:13:05 - Built-In Middleware in Express JS
+5:24:23 - External Middleware in Express JS 
+5:30:08 - Error Handling Middleware in Express JS 
+5:35:53 - Template Engine in Express JS 
+5:43:49 - Show Form Data on EJS Template Engine in Express JS 
+5:50:40 - Conditions and Loops in EJS Template Engine
+5:56:28 - MVC Architecture in node js 
+6:08:02 - Dynamic Routes  
+6:19:30 - API example with dynamic routes 
+6:30:39 - Database and Mongodb with Node js 
+6:35:19 - How to Setup Mongodb with Node js 
+6:42:09 - Basics Of  and Mongodb  
+6:52:34 - Connect MongoDB with Node js 
+7:01:58 - Display data from  Mongodb  on UI with Node js 
+7:10:05 - Make API with  Mongodb and Node js 
+7:16:24 - POST Form for save with Mongodb and Node js 
+7:26:08 - POST API for save with Mongodb and Node js 
+7:35:45 - Delete Rest API  Mongodb and Node js 
+7:46:44 - Populate Data with Mongodb in Node js 
+7:55:34 - Node connect with MongoDB through mongoose
+8:01:33 - Get method rest API in Node js with mongoose
+8:11:09 - Post method rest API in Node js with mongoose
+8:18:48 - PUT and Delete method rest API in Node js with mongoose
+8:26:34 - How to fix cors issues in Node js 
+8:34:16 - Upload files in Node Js 
+8:42:52 - Basics of Mongodb Atlas 
+8:49:33 - Connect Node js with Mongodb Atlas Tool
+8:55:43 - Set and Get Cookies in Node js
+9:08:09 - Set and Get Sessions in Node js 
+9:20:06 - Send Email with Node js
+9:32:28 - Add TypeScript in Node js App
+9:39:09 - Node and React js full stack Project 
+ 
